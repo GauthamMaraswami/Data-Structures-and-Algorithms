@@ -1,0 +1,55 @@
+enter the number
+enter youour choice
+1-insert 
+ 2-delete
+ 3-search 
+4-stop
+enter the number
+lol
+insert successful
+enter your op
+enter the number
+lol
+lol
+insert successful
+enter your op
+enter the number
+lol
+lol
+insert successful
+enter your op
+enter the number
+lol
+insert successful
+enter your op
+enter the number
+lol
+lol
+insert successful
+enter your op
+enter the number
+lol
+lol
+insert successful
+enter your op
+20-->30-->40-->50-->60-->70-->80-->enter your op
+enter the node to delete
+doesnt jjjjjjjjjjjjjjjjjdelete
+doesnt jjjjjjjjjjjjjjjjjdelete
+doesnt jjjjjjjjjjjjjjjjjdelete
+deletio;n successful
+enter your op
+0-->30-->40-->50-->60-->70-->80-->enter your op
+enter the node to delete
+doesnt jjjjjjjjjjjjjjjjjdelete
+doesnt jjjjjjjjjjjjjjjjjdelete
+doesnt jjjjjjjjjjjjjjjjjdelete
+deletio;n successful
+enter your op
+0-->40-->0-->50-->60-->70-->80-->enter your op
+enter the node to delete
+doesnt jjjjjjjjjjjjjjjjjdelete
+doesnt jjjjjjjjjjjjjjjjjdelete
+deletio;n successful
+enter your op
+0-->40-->0-->60-->0-->70-->80-->enter your op

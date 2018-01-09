@@ -1,0 +1,48 @@
+enter the number
+enter youour choice
+1-insert 
+ 2-delete
+ 3-search 
+4-stop
+enter the number
+lol
+insert successful
+enter your op
+enter the number
+lol
+insert successful
+enter your op
+enter the number
+lol
+lol
+insert successful
+enter your op
+enter the number
+lol
+lol
+insert successful
+enter your op
+enter the number
+lol
+lol
+lol
+insert successful
+enter your op
+enter the number
+lol
+lol
+lol
+insert successful
+enter your op
+enter the node to search
+find failed
+enter your op
+enter the node to search
+find successful
+enter your op
+enter the node to delete
+deletion failed
+enter your op
+enter the node to delete
+deletio;n successful
+enter your ops
